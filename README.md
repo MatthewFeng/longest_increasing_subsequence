@@ -1,6 +1,6 @@
 # longest_increasing_subsequence
 
-this code is follow the website :https://www.hiredintech.com/classrooms/algorithm-design/lesson/12/task/14/solution
+this code follows the website :https://www.hiredintech.com/classrooms/algorithm-design/lesson/12/task/14/solution
 
 and give a solution with O(nlogn) complexity
 
